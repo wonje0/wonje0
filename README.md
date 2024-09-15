@@ -1,4 +1,4 @@
-## Hi there 👋 I want to sleep
+## Hi there 👋 I want to go home
 
 <!--
 **wonje0/wonje0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
